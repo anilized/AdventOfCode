@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="51185c7b-f152-435b-89d1-0164c86d9dd7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/puzzle2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/puzzle2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.puzzle2">
+  <component name="RunManager" selected="Python.puzzle3">
     <configuration name="puzzle1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AdventOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,8 +94,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="puzzle3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AdventOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/puzzle3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.puzzle3" />
         <item itemvalue="Python.puzzle2" />
         <item itemvalue="Python.puzzle1" />
       </list>
@@ -117,6 +139,7 @@
       <workItem from="1575282466261" duration="1498000" />
       <workItem from="1575284884345" duration="83000" />
       <workItem from="1575285018913" duration="922000" />
+      <workItem from="1575377922474" duration="1327000" />
     </task>
     <servers />
   </component>
@@ -137,6 +160,7 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AdventOfCode$puzzle3.coverage" NAME="puzzle3 Coverage Results" MODIFIED="1575379160318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/AdventOfCode$puzzle1.coverage" NAME="puzzle1 Coverage Results" MODIFIED="1575211320147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/AdventOfCode$puzzle2.coverage" NAME="puzzle2 Coverage Results" MODIFIED="1575286095780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
   </component>
